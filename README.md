@@ -1,2 +1,2 @@
 # Agenda
-Agenda con interfaz visual codeada en C
+Agenda con interfaz visual codeada en lenguaje C
